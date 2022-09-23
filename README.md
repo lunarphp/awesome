@@ -1,4 +1,4 @@
-![Lunar Awesome](https://user-images.githubusercontent.com/50486078/182150166-434e48ae-c08e-4334-b6d7-bdbc28930496.svg)
+![Lunar Awesome](https://raw.githubusercontent.com/lunarphp/awesome/update/lunar/assets/banner.jpg)
 
 # Awesome Lunar
 
