@@ -9,8 +9,8 @@ other e-commerce platforms to Laravel.
 
 ## Official Links
 
-- Website [lunarphp.io](https://Lunar.io)
-- Docs [docs.lunarphp.io](https://docs.Lunar.io)
+- Website [lunarphp.io](https://lunarphp.io)
+- Docs [docs.lunarphp.io](https://docs.lunarphp.io)
 - Main Repo [github.com/lunarphp/lunar](https://github.com/lunarphp/lunar)
 
 ## Community
