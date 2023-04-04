@@ -21,13 +21,8 @@ other e-commerce platforms to Laravel.
 
 ## Addons
 
-Some add-ons are likely to require a paid license (premium) when you go live.
-You are free to install them locally whilst developing to get a feel for what
-they offer.
+### Payment Gateways
 
 - [Stripe](https://github.com/lunarphp/stripe)
 - [Opayo](https://github.com/lunarphp/opayo)
-
----
-
-Lunar changed its name from "GetCandy" to "Lunar" in September 2022.
+- [MPGS](https://github.com/wychoong/lunarphp-mpgs)
