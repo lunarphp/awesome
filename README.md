@@ -17,7 +17,7 @@ other e-commerce platforms to Laravel.
 
 - [Discord](https://discord.gg/v6qVWaf) - The Discord server is a great way to
   chat to the developers and people using Lunar
-- [Twitter](https://twitter.com/Lunar) - Follow us for the latest updates
+- [Twitter](https://twitter.com/LunarPHP) - Follow us for the latest updates
 
 ## Addons
 
